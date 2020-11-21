@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "./static/js/main.aa05881b.chunk.js",
+    "main.js.map": "./static/js/main.aa05881b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0e1e7588.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0e1e7588.js.map",
+    "static/js/2.020bbd5e.chunk.js": "./static/js/2.020bbd5e.chunk.js",
+    "static/js/2.020bbd5e.chunk.js.map": "./static/js/2.020bbd5e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.37b120dc5bcc08f69784f0f352a281e4.js": "./precache-manifest.37b120dc5bcc08f69784f0f352a281e4.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.020bbd5e.chunk.js.LICENSE.txt": "./static/js/2.020bbd5e.chunk.js.LICENSE.txt",
+    "static/media/SMARTMART.png": "./static/media/SMARTMART.cccb9e08.png",
+    "static/media/image-not-available.jpg": "./static/media/image-not-available.92a4fa5c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e1e7588.js",
+    "static/js/2.020bbd5e.chunk.js",
+    "static/js/main.aa05881b.chunk.js"
+  ]
+}
